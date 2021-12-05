@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NirRL
+- 👀 I’m interested in data analysis, gaming, economics and finance and also music.
+- 🌱 I’m currently learning python and machine learning for data analysis.
+- 💞️ I’m looking to collaborate on anyone who whold like to learn and build projects together.
+- 📫 nirhl3@gmail.com or Nir Harel on Linkedin.
